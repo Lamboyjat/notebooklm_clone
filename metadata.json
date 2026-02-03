@@ -1,0 +1,7 @@
+{
+  "name": "NotebookLM Clone",
+  "description": "A powerful AI notebook that helps you synthesize information from multiple sources using Gemini, featuring chat, audio overviews, and structured study guides.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
